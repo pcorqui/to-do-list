@@ -23,7 +23,7 @@ body{
     border: solid 1px orange;
     display: flex;
     justify-content: space-between;
-    flex-wrap: 100%;
+    flex-wrap: wrap;
     margin: 25px 0;
 }
 
@@ -109,5 +109,5 @@ body{
     .user-input input{
         width: 60%;
     }
-    
+
 }
